@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Inventory-Management-System-JSP-and-Servlets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-5.1.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/json-simple-1.1-bundle.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
